@@ -11,7 +11,7 @@ South Korean Social Service Agent.
 <h3>2024.07 ~ 2024.08: Team.코스모스</h3>
 <li>2024 SW중심대학 디지털경진대회 AI부문 - 우수상, 인기상</li>
 
-<h3>2024.10 ~ 2024.11: Team.Hero-Vision</h3>
+<h3>2024.10 ~ 2024.11: Team.HERO-Vision</h3>
 <li>2024 한림대의료원 Clinical Data 활용 경진대회 - 최우수상</li>
 
 <h3>2025.05 ~ Now: Team.VIDA</h3>
